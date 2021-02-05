@@ -1,6 +1,11 @@
-# CRUD php and mySQL
- 
-C - create account<br>
-R - read user info<br>
-U - update user info<br>
-D - delete user<br>
+CRUD application with PHP and MySQL
+
+
+C - Sign in or Create a new account<br>
+![''](./screenshots/login.jpg)
+R - Read user info<br>
+![''](./screenshots/login.jpg)
+U - Update user info<br>
+![''](./screenshots/login.jpg)
+D - Delete user<br>
+![''](./screenshots/login.jpg)
