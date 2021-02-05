@@ -1,6 +1,6 @@
 # CRUD php and mySQL
  
-C - create account
-R - read user info
-U - update user info
-D - delete user
+C - create account<br>
+R - read user info<br>
+U - update user info<br>
+D - delete user<br>
