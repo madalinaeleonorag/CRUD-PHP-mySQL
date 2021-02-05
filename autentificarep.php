@@ -61,7 +61,7 @@
     </style>
 </head>
 
-<body background="1.jpg" font size="6">
+<body background="1.jpg">
     <img src="title.png" class="logo">
     <div class="forms">
         <div class="signin">
